@@ -1,3 +1,3 @@
 # Digigram_Template
-static web design
+static web design  
 Designed by using HTML, CSS.
